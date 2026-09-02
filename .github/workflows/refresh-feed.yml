@@ -1,0 +1,33 @@
+name: Refresh Reefna Meta feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate product feed
+        run: python generate_feed.py
+      - name: Validate XML
+        run: python -c "import xml.etree.ElementTree as E; r=E.parse('reefna-meta-product-feed.xml').getroot(); assert r.tag == 'rss'; assert len(r.findall('./channel/item')) > 0"
+      - name: Commit updated feed
+        run: |
+          if git diff --quiet -- reefna-meta-product-feed.xml; then
+            echo "Feed unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reefna-meta-product-feed.xml
+          git commit -m "chore: refresh Meta product feed"
+          git push
