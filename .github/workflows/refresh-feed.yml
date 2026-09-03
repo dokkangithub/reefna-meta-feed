@@ -1,4 +1,4 @@
-name: Refresh Reefna Meta feed
+name: Refresh Shopify Meta feeds
 
 on:
   workflow_dispatch:
@@ -17,17 +17,21 @@ jobs:
         with:
           python-version: "3.12"
       - name: Generate product feed
-        run: python generate_feed.py
+        run: |
+          python generate_feed.py
+          python generate_ponino_feed.py
       - name: Validate XML
-        run: python -c "import xml.etree.ElementTree as E; r=E.parse('reefna-meta-product-feed.xml').getroot(); assert r.tag == 'rss'; assert len(r.findall('./channel/item')) > 0"
+        run: |
+          python -c "import xml.etree.ElementTree as E; r=E.parse('reefna-meta-product-feed.xml').getroot(); assert r.tag == 'rss'; assert len(r.findall('./channel/item')) > 0"
+          python -c "import xml.etree.ElementTree as E; r=E.parse('doctor-ponino-meta-product-feed.xml').getroot(); assert r.tag == 'rss'; assert len(r.findall('./channel/item')) > 0"
       - name: Commit updated feed
         run: |
-          if git diff --quiet -- reefna-meta-product-feed.xml; then
-            echo "Feed unchanged"
+          if git diff --quiet -- reefna-meta-product-feed.xml doctor-ponino-meta-product-feed.xml; then
+            echo "Feeds unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reefna-meta-product-feed.xml
-          git commit -m "chore: refresh Meta product feed"
+          git add reefna-meta-product-feed.xml doctor-ponino-meta-product-feed.xml
+          git commit -m "chore: refresh Meta product feeds"
           git push
