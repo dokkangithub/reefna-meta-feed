@@ -4,7 +4,7 @@
     <title>Reefna Food – Meta Product Feed</title>
     <link>https://reefnafood.com</link>
     <description>Reefna Food product catalog for Meta/Facebook and Instagram</description>
-    <lastBuildDate>Tue, 22 Sep 2026 16:55:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:16:56 +0000</lastBuildDate>
     <item>
       <g:id>shopify_EG_8187036467293_44780564414557</g:id>
       <g:item_group_id>shopify_EG_8187036467293</g:item_group_id>
@@ -78,8 +78,7 @@
       <g:condition>new</g:condition>
       <g:price>250.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/freeze-dried-pineapple-pieces?variant=43181916291165</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/14.webp?v=1790089380</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/Dried_Pineapple_1.jpg?v=1754283204</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/Dried_Pineapple_1.jpg?v=1754283204</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/Dried_Pineapple_2.jpg?v=1754283219</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
@@ -94,8 +93,7 @@
       <g:price>680.00 EGP</g:price>
       <g:sale_price>550.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/royal-mix?variant=44602914996317</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/8.webp?v=1790089199</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/795CBB6C-8633-4FE5-B994-3D6C205B644B.jpg?v=1783932894</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/795CBB6C-8633-4FE5-B994-3D6C205B644B.jpg?v=1783932894</g:image_link>
       <g:brand>Reefna food</g:brand>
     </item>
     <item>
@@ -198,7 +196,7 @@
       <g:item_group_id>shopify_EG_8079278014557</g:item_group_id>
       <g:title>فراولة مجففة مغطاة بطبقتين من الشوكولاتة الدارك والبيضاء – 200g</g:title>
       <g:description>فراولة مغطاة بطبقتين من الشوكولاتة الداكنة والبيضاء طبقتان من الشوكولاتة تغطيان طبقة داخلية من الفراولة المجففة بالتجميد، الطبقة الداخلية هي شوكولاتة داكنة والطبقة الخارجية هي شوكولاتة بيضاء</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>360.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/double-coated-strawberry-with-dark-white-chocolates?variant=44213246328925</g:link>
@@ -211,7 +209,7 @@
       <g:item_group_id>shopify_EG_8079264251997</g:item_group_id>
       <g:title>فراولة مجففة مغطاه بـشوكولاتة الفروالة – 200g</g:title>
       <g:description>فراولة مغطاة بمسحوق فراولة بنكهة الشوكولاتة</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>360.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/coated-strawberry-with-chocolate-flavored-strawberry-powder?variant=44213171355741</g:link>
@@ -308,7 +306,7 @@
       <g:item_group_id>shopify_EG_8079105687645</g:item_group_id>
       <g:title>مكسرات مشكلة مغطاه بالإسبريسو – 250g</g:title>
       <g:description>مزيج المكسرات المغلفة مع الإسبريسو مكسرات كاجو بندق لوز</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>330.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/coated-nuts-mix-with-espresso?variant=44211709280349</g:link>
@@ -320,7 +318,7 @@
       <g:item_group_id>shopify_EG_8079105556573</g:item_group_id>
       <g:title>مكسرات مغطاة بالشوكولاتة البيضاء – 250g</g:title>
       <g:description>مزيج المكسرات المغلفة بالشوكولاتة البيضاء المكسرات الكاجو البندق اللوز</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>330.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/coated-nuts-mix-with-white-chocolate?variant=44211708723293</g:link>
@@ -344,7 +342,7 @@
       <g:item_group_id>shopify_EG_8079104344157</g:item_group_id>
       <g:title>مكسرات مشكلة مغطاه بالـشوكولاتة الدارك – 250g</g:title>
       <g:description>مزيج المكسرات المغلفة بالشوكولاتة الداكنة مكسرات كاجو بندق لوز</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>360.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/coated-nuts-mix-with-dark-chocolate?variant=44211700727901</g:link>
@@ -362,8 +360,7 @@
       <g:price>340.00 EGP</g:price>
       <g:sale_price>280.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/egyptian-delights?variant=44724801208413</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9.webp?v=1790088614</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/691A768B-0B40-4C16-9B5D-56077A26742F.jpg?v=1780944719</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/691A768B-0B40-4C16-9B5D-56077A26742F.jpg?v=1780944719</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/EF7F6E13-3A39-494C-8206-53A6E7C66698.jpg?v=1780944718</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
     </item>
@@ -480,7 +477,7 @@
       <g:item_group_id>shopify_EG_8057840271453</g:item_group_id>
       <g:title>مانجـو مجففة مغطي بالـشكولاتة الدارك – 100g</g:title>
       <g:description>مانجـو مجففة مغطي بالـشكولاتة الدارك</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>340.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/coated-mango-with-dark-chocolate?variant=44141159678045</g:link>
@@ -492,7 +489,7 @@
       <g:item_group_id>shopify_EG_8048382345309</g:item_group_id>
       <g:title>موز مجفف مغطي بـالشكولاتة الدارك – 100g</g:title>
       <g:description>استمتع بالطعم الغني لـ الموز مع الشوكولاتة الداكنة من ريفنا فود ، مزيج فاخر من حلاوة الفواكه الطبيعية وعمق الكاكاو الداكن الممتاز. فرو-شوكو يقدم تجربة وجبة خفيفة فريدة حيث يلتقي الموز المقرمش بالشوكولاتة الناعمة والكريمية لعضة متوازنة تمامًا. المكونات: شرائح موز مجففة بالتجميد شوكولاتة داكنة الوزن الصافي: 100 جرام التغليف: برطمان بلاستيك PET الأصل والمصدر: صنع في مصر تعليمات التخزين للفواكه المجففة بالتجميد: يُخزن في مكان بارد وجاف بعيدًا عن أشعة الشمس المباشرة. يُعاد إغلاقه بإحكام بعد الفتح للحفاظ على القرمشة والنكهة. ميزات الموز مع الشوكولاتة الداكنة : موز مجفف بالتجميد من نوعية ممتازة مغطى بشوكولاتة داكنة غنية قوام مقرمش مع نكهة كاكاو جريئة وموز طبيعي مصنوع من 100% فواكه حقيقية، حلوة بشكل طبيعي لا ألوان صناعية، نكهات، أو مواد حافظة الجودة والسلامة: تم إنتاجه تحت أنظمة معتمدة من HACCP و ISO 22000 لضمان النظافة والسلامة. عملية التجفيف بالتجميد تحت الفراغ تحافظ على مغذيات الفاكهة ولونها وطعمها. فوائد العملاء من الموز مع الشوكولاتة الداكنة : مثالي للاستمتاع أثناء التنقل صديق للنباتيين وخالي من الجلوتين غني بالطاقة الطبيعية ومضادات الأكسدة تجربة لذيذة صحية تُشعر بالرضا بشكل طبيعي معلومات الحساسية: عنصر يحتوي على موز نعم كاكاو نعم ليسيثين الصويا قد تحتوي على آثار جلوتين لا فرو-شوكو من ريفنا، حيث تلتقي الفواكه المجففة الطبيعية بأناقة الشوكولاتة. لا يمكن مقاومتها ببساطة.</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>300.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/fru-choco-coated-banana-with-dark-chocolate?variant=43942254346333</g:link>
@@ -593,7 +590,7 @@
       <g:item_group_id>shopify_EG_8045248905309</g:item_group_id>
       <g:title>كاجـو مقرمش مغطي بـشكولاتة ميكس – 250g</g:title>
       <g:description>اختبر القرمشة التي لا تقاوم لمزيج الكاجو المغطى بالشوكولاتة من ريفنا ، حيث يلتقي الكاجو المحمص الفاخر بمزيج فاخر من الشوكولاتة بالحليب والشوكولاتة الداكنة. تجمع هذه الوجبة الخفيفة الفاخرة بين غنى الكاجو الزبداني مع تغليف الشوكولاتة المخملية للحصول على حلوى مثالية حلوة ومالحة تناسب أي مناسبة. المكونات: كاجو محمص شوكولاتة بالحليب شوكولاتة بيضاء شوكولاتة داكنة إسبريسو كراميل قرفة الوزن الصافي: 250 جرام التغليف: برطمان بلاستيك PET الأصل والمصدر: صنع في مصر تعليمات التخزين: خزنه في مكان بارد وجاف بعيدًا عن أشعة الشمس المباشرة. احتفظ به مغلقًا بإحكام بعد الفتح للحفاظ على النضارة. يفضل استهلاكه خلال شهرين بعد الفتح. ميزات الكاجو المغطى بالشوكولاتة : كاجو محمص مغطى بمزيج من الشوكولاتة بالحليب والشوكولاتة الداكنة. قرمشة مثالية من الكاجو مع تغليف ناعم وذائب من الشوكولاتة. ملف نكهة متوازن بين الحلو والمالح لوجبات خفيفة راقية. تظل المكسرات المغلفة بشكل فردي طازجة ومقرمشة لفترة أطول. الجودة والسلامة: تم إنتاجه وفقًا لمعايير معتمدة من HACCP وISO 22000. تم اختيار كاجو فاخر ومغلف بشوكولاتة بلجيكية عالية الجودة لتحقيق التميز المستمر. فوائد العملاء من الكاجو المغطى بالشوكولاتة : توازن مثالي بين المكسرات المقرمشة والشوكولاتة الناعمة. مصدر غني بالدهون الصحية من الكاجو بالإضافة إلى مضادات الأكسدة من الشوكولاتة. مثالي للمشاركة، أو الهدايا، أو لحظات التمتع الشخصية. وجبة خفيفة راقية ترفع من أي مناسبة من غير الرسمية إلى الاحتفالية. معلومات الحساسية: عنصر يحتوي على كاجو (مكسرات شجرية) نعم حليب/منتجات الألبان نعم ليسيثين الصويا نعم جلوتين لا امزج الكاجو المغطى بالشوكولاتة من ريفنا، حيث تلتقي المكسرات الفاخرة مع الكمال الشوكولاتة. قرمشة لا تقاوم في كل قضمة فاخرة.</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>310.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/choco-nuts-cashew-coated-with-chocolates-mix?variant=43931927904349</g:link>
@@ -617,7 +614,7 @@
       <g:item_group_id>shopify_EG_8045194674269</g:item_group_id>
       <g:title>لوز مقرمش مغطي بـشكولاتة ميكس – 250g</g:title>
       <g:description>استمتع بالقرمشة التي لا تقاوم من لوز مغطى بالشوكولاتة من ريفنا ، حيث تلتقي اللوز المحمص الفاخر بمزيج فاخر من الشوكولاتة بالحليب والشوكولاتة الداكنة. تجمع هذه الوجبة الخفيفة الفاخرة بين غنى اللوز الدقيق والمكسر مع تغطية الشوكولاتة الناعمة للحصول على حلوى مثالية للحلو والمالح تناسب أي مناسبة. المكونات: لوز محمص شوكولاتة بالحليب شوكولاتة داكنة إسبريسو كراميل قرفة الوزن الصافي: 250 جرام التغليف: برطمان بلاستيك PET الأصل والمصدر: صنع في مصر تعليمات التخزين: خزنه في مكان بارد وجاف بعيدًا عن أشعة الشمس المباشرة. احتفظ به مغلقًا بإحكام بعد الفتح للحفاظ على النضارة. يفضل استهلاكه خلال شهرين بعد الفتح. ميزات لوز مغطى بالشوكولاتة : لوز محمص مغطى بمزيج من الشوكولاتة بالحليب والشوكولاتة الداكنة. قرمشة مثالية من اللوز مع تغطية من الشوكولاتة الناعمة والمذابة. ملف نكهة متوازن بين الحلو والمالح لوجبات خفيفة راقية. المكسرات المغطاة بشكل فردي تبقى طازجة ومقرمشة لفترة أطول. الجودة والسلامة: تم إنتاجه وفقًا لمعايير معتمدة من HACCP وISO 22000. تم اختيار اللوز الفاخر وتغطيته بشوكولاتة بلجيكية عالية الجودة لتحقيق التميز المستمر. فوائد العملاء من لوز مغطى بالشوكولاتة : توازن مثالي بين المكسرات المقرمشة والشوكولاتة الناعمة. مصدر غني بالدهون الصحية من اللوز بالإضافة إلى مضادات الأكسدة من الشوكولاتة. مثالي للمشاركة، أو الهدايا، أو لحظات التمتع الشخصية. وجبة خفيفة راقية ترفع من أي مناسبة من غير الرسمية إلى الاحتفالية. معلومات الحساسية: عنصر يحتوي على لوز (مكسرات شجرية) نعم حليب/منتجات الألبان نعم ليسيثين الصويا نعم جلوتين لا لوز مغطى بالشوكولاتة من ريفنا ، حيث تلتقي المكسرات الفاخرة مع الكمال الشوكولاتة. قرمشة لا تقاوم في كل قضمة فاخرة.</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>290.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/choco-nuts-coated-almond-with-chocolates-mix?variant=43931882520669</g:link>
@@ -629,7 +626,7 @@
       <g:item_group_id>shopify_EG_8045157744733</g:item_group_id>
       <g:title>مكسرات مشكلة مغطاة بشوكولاتة ميكس – 450g</g:title>
       <g:description>استمتع بالقرمشة التي لا تقاوم من مزيج المكسرات والشوكولاتة من ريفنا ، حيث يلتقي اختيار فاخر من اللوز المحمص، الكاجو، والبندق مع مزيج فاخر من الشوكولاتة بالحليب والداكنة. هذه الوجبة الخفيفة الفاخرة تقدم سمفونية من القوام والنكهات الجوزية مع تغليف ناعم من الشوكولاتة لتكون الوجبة المثالية الحلوة والمالحة المناسبة لأي مناسبة. المكونات: لوز محمص، كاجو، وبندق شوكولاتة بالحليب شوكولاتة بيضاء شوكولاتة داكنة إسبريسو كراميل قرفة الوزن الصافي: 450 جرام التغليف: وعاء بلاستيكي PET الأصل والمصدر: صنع في مصر تعليمات التخزين: خزن في مكان بارد وجاف بعيدًا عن أشعة الشمس المباشرة. احتفظ بها مغلقة بإحكام بعد الفتح للحفاظ على الطزاجة. يفضل استهلاكها خلال شهرين بعد الفتح. ميزات المكسرات والشوكولاتة المختلطة: مكسرات مختلطة فاخرة (لوز، كاجو، بندق) مغطاة بالشوكولاتة بالحليب والداكنة. مجموعة متنوعة من قوام القرمشة مع تغليف ناعم وذائب من الشوكولاتة. ملف نكهة متوازن بين الحلو والمالح مع شخصيات مكسرات متنوعة. تظل المكسرات المغلفة بشكل فردي طازجة ومقرمشة لفترة أطول. الجودة والسلامة: تم إنتاجه وفقًا لمعايير معتمدة من HACCP وISO 22000. اختيار مكسرات فاخرة مغطاة بعناية بشوكولاتة بلجيكية عالية الجودة لتحقيق التميز المستمر. فوائد العملاء من المكسرات والشوكولاتة : توازن مثالي بين المكسرات المقرمشة المتعددة والشوكولاتة الناعمة. مصدر غني للدهون الصحية من المكسرات المختلطة بالإضافة إلى مضادات الأكسدة من الشوكولاتة. مثالي للمشاركة، الهدايا، الحفلات، أو لحظات الترفيه الشخصية. تضفي أناقة مجموعة متنوعة من المكسرات على أي مناسبة من غير الرسمية إلى الاحتفالية. معلومات الحساسية: عنصر يحتوي على مكسرات شجرية (لوز، كاجو، بندق) نعم حليب/منتجات الألبان نعم ليسيثين الصويا نعم جلوتين لا مزيج من المكسرات والشوكولاتة من ريفنا، حيث يلتقي تنوع المكسرات الفاخرة مع الكمال الشوكولاتة. مجموعة لا تقاوم من القرمشة في كل قضمة فاخرة.</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>480.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/choco-nuts-mixed-nuts-with-mixed-chocolate?variant=43931826618461</g:link>
@@ -756,7 +753,7 @@
       <g:item_group_id>shopify_EG_8000324960349</g:item_group_id>
       <g:title>فراولة مجففة مغطاه بالـشوكولاتة البيضاء – 200g</g:title>
       <g:description>اكتشف الطعم الرائع للفراولة المغلفة بالشوكولاتة البيضاء المجففة بالتجميد. هذه الوجبة الخفيفة الفاخرة تجمع بين الحلاوة الطبيعية والملمس المقرمش للفواكه المجففة مع غنى الشوكولاتة البيضاء الناعمة، مما يجعلها مكافأة مثالية لعشاق الشوكولاتة والفواكه على حد سواء. المكونات: فراولة كاملة مجففة بالتجميد شوكولاتة بيضاء الوزن الصافي: 100 جرام / 200 جرام التغليف: حاوية بلاستيكية PET الأصل والمصدر: مصنوع من فراولة مجففة بالتجميد عالية الجودة وشوكولاتة بيضاء فاخرة تعليمات التخزين: خزن في مكان بارد وجاف بعيدًا عن أشعة الشمس المباشرة. اغلق بإحكام بعد الفتح للحفاظ على النضارة والقرمشة. ميزات W فراولة مغلفة بالشوكولاتة البيضاء : المزيج المثالي من الفراولة المجففة بالتجميد المقرمشة وطبقة الشوكولاتة البيضاء الناعمة. مثالي للوجبات الخفيفة، والحلويات، أو المناسبات الخاصة. غني بمضادات الأكسدة والفيتامينات من الفواكه المجففة بالتجميد. متحكم في الحصة، مريح، ومناسب لجميع الأعمار. الجودة والسلامة: مصنوع في منشآت معتمدة تضمن مستويات عالية من سلامة وجودة الغذاء. لا مواد حافظة أو إضافات صناعية. فوائد العملاء من W فراولة مغلفة بالشوكولاتة البيضاء : مزيج لذيذ من حلاوة الفواكه ونكهة الشوكولاتة الكريمية. وجبة خفيفة صحية تجمع بين فوائد الفواكه المجففة والشوكولاتة الفاخرة. مثالي للوجبات الخفيفة أثناء التنقل، والهدايا، أو لحظات الترفيه. معلومات الحساسية: عنصر يحتوي على منتجات الألبان نعم (شوكولاتة بيضاء) جلوتين قد تحتوي على آثار مكسرات قد تحتوي على آثار حسب المنشأة صديق للنباتيين لا استمتع بنكهة الفراولة المغلفة بالشوكولاتة البيضاء، حيث تلتقي الفواكه المجففة بالشوكولاتة الكريمية لتجربة وجبة خفيفة لا تُنسى.</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>340.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/fd-coated-strawberry-with-white-chocolate?variant=43763263340637</g:link>
@@ -1142,8 +1139,7 @@
       <g:price>660.00 EGP</g:price>
       <g:sale_price>600.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/reefna-mix?variant=43554741518429</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/1_1a1c6183-2e99-4593-8d7a-939e5d532475.webp?v=1790088298</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/5F06E652-75C8-4ADF-B57D-7BCF9C89CC8E.jpg?v=1770070301</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/5F06E652-75C8-4ADF-B57D-7BCF9C89CC8E.jpg?v=1770070301</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/E6DC3EAA-1C1B-4A49-8B6F-0B0DCDDE1A64.jpg?v=1770070301</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
     </item>
@@ -1256,8 +1252,8 @@
       <g:condition>new</g:condition>
       <g:price>290.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/summer-taste?variant=43529078407261</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/15.webp?v=1790089448</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9E77D2BE-F4F8-4164-9A08-9CCD2E5D77D9.jpg?v=1780944718</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9E77D2BE-F4F8-4164-9A08-9CCD2E5D77D9.jpg?v=1780944718</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9D7E4A3A-9757-4438-B790-C768583A5474.jpg?v=1780944718</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -1271,7 +1267,7 @@
       <g:price>340.00 EGP</g:price>
       <g:sale_price>290.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/tropical-mix?variant=43529066119261</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/16.webp?v=1790089510</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/ED46D613-8A92-4E6C-86E2-5DB38FB85AF6.jpg?v=1780944718</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/tropical_mix_3.jpg?v=1754050894</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
@@ -1595,9 +1591,7 @@
       <g:condition>new</g:condition>
       <g:price>140.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-straw-go-mix?variant=44926451023965</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/11.webp?v=1790092284</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/10.webp?v=1790089091</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/784F22BE-2E24-466E-871B-1CC5B2CED81C.jpg?v=1788193150</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/784F22BE-2E24-466E-871B-1CC5B2CED81C.jpg?v=1788193150</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_straw_4.jpg?v=1754480732</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
@@ -1611,10 +1605,8 @@
       <g:condition>new</g:condition>
       <g:price>210.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-straw-go-mix?variant=44724802977885</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/10.webp?v=1790089091</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/784F22BE-2E24-466E-871B-1CC5B2CED81C.jpg?v=1788193150</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/784F22BE-2E24-466E-871B-1CC5B2CED81C.jpg?v=1788193150</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_straw_4.jpg?v=1754480732</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/11.webp?v=1790092284</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -1627,10 +1619,8 @@
       <g:condition>new</g:condition>
       <g:price>280.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-straw-go-mix?variant=43409245667421</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/10.webp?v=1790089091</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/784F22BE-2E24-466E-871B-1CC5B2CED81C.jpg?v=1788193150</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/784F22BE-2E24-466E-871B-1CC5B2CED81C.jpg?v=1788193150</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_straw_4.jpg?v=1754480732</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/11.webp?v=1790092284</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -2222,8 +2212,7 @@
       <g:condition>new</g:condition>
       <g:price>210.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-strawberry-slices?variant=44724802060381</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/17.webp?v=1790089587</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_strawberries_2.jpg?v=1754282639</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_strawberries_2.jpg?v=1754282639</g:image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -2236,8 +2225,7 @@
       <g:condition>new</g:condition>
       <g:price>290.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-strawberry-slices?variant=43529020112989</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/17.webp?v=1790089587</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_strawberries_2.jpg?v=1754282639</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_strawberries_2.jpg?v=1754282639</g:image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -2250,8 +2238,7 @@
       <g:condition>new</g:condition>
       <g:price>210.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-royal-mixed-fruits?variant=44724801896541</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/12.webp?v=1790089294</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/58F9061D-3E5E-459D-8B2C-16C0DED86646.jpg?v=1788193151</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/58F9061D-3E5E-459D-8B2C-16C0DED86646.jpg?v=1788193151</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/C477E71D-8088-4892-90D4-A2844F39010D.jpg?v=1747772487</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
@@ -2265,8 +2252,7 @@
       <g:condition>new</g:condition>
       <g:price>280.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-royal-mixed-fruits?variant=43409258348637</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/12.webp?v=1790089294</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/58F9061D-3E5E-459D-8B2C-16C0DED86646.jpg?v=1788193151</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/58F9061D-3E5E-459D-8B2C-16C0DED86646.jpg?v=1788193151</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/C477E71D-8088-4892-90D4-A2844F39010D.jpg?v=1747772487</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
@@ -2308,9 +2294,7 @@
       <g:condition>new</g:condition>
       <g:price>150.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/full-happiness-strawberry-whole?variant=44926451089501</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/6.webp?v=1790092178</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/7.webp?v=1790088725</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/532E08E1-01C7-4232-8E3F-1F4652B146AC.jpg?v=1754258167</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/532E08E1-01C7-4232-8E3F-1F4652B146AC.jpg?v=1754258167</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/02A97533-A000-4447-AC23-2E3CA989772F.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4F127AFB-3D22-4FFE-B311-86475AE783C5.jpg?v=1784359469</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_whole_strawberry_1.jpg?v=1754258167</g:additional_image_link>
@@ -2326,12 +2310,10 @@
       <g:condition>new</g:condition>
       <g:price>220.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/full-happiness-strawberry-whole?variant=44724801241181</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/7.webp?v=1790088725</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/532E08E1-01C7-4232-8E3F-1F4652B146AC.jpg?v=1754258167</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/532E08E1-01C7-4232-8E3F-1F4652B146AC.jpg?v=1754258167</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/02A97533-A000-4447-AC23-2E3CA989772F.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4F127AFB-3D22-4FFE-B311-86475AE783C5.jpg?v=1784359469</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_whole_strawberry_1.jpg?v=1754258167</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/6.webp?v=1790092178</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -2345,11 +2327,9 @@
       <g:price>290.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/full-happiness-strawberry-whole?variant=43529024405597</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/532E08E1-01C7-4232-8E3F-1F4652B146AC.jpg?v=1754258167</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/7.webp?v=1790088725</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/02A97533-A000-4447-AC23-2E3CA989772F.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4F127AFB-3D22-4FFE-B311-86475AE783C5.jpg?v=1784359469</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_whole_strawberry_1.jpg?v=1754258167</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/6.webp?v=1790092178</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -2362,12 +2342,10 @@
       <g:condition>new</g:condition>
       <g:price>560.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/full-happiness-strawberry-whole?variant=44602539343965</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/7.webp?v=1790088725</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/532E08E1-01C7-4232-8E3F-1F4652B146AC.jpg?v=1754258167</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/532E08E1-01C7-4232-8E3F-1F4652B146AC.jpg?v=1754258167</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/02A97533-A000-4447-AC23-2E3CA989772F.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4F127AFB-3D22-4FFE-B311-86475AE783C5.jpg?v=1784359469</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_whole_strawberry_1.jpg?v=1754258167</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/6.webp?v=1790092178</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
@@ -2423,7 +2401,6 @@
       <g:price>155.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-royal-mango-wedges?variant=44926451581021</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4.webp?v=1790092025</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/2.webp?v=1790088415</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4BFBEA92-F41D-40C8-A735-C2E6A2869E19.jpg?v=1754258029</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/82532539-9047-40DA-B643-114E631803E4.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/10DA27CE-8CEA-405C-B2AE-7AD057FEEED3.jpg?v=1784359469</g:additional_image_link>
@@ -2440,8 +2417,7 @@
       <g:condition>new</g:condition>
       <g:price>220.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-royal-mango-wedges?variant=44724802191453</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/2.webp?v=1790088415</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4BFBEA92-F41D-40C8-A735-C2E6A2869E19.jpg?v=1754258029</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4BFBEA92-F41D-40C8-A735-C2E6A2869E19.jpg?v=1754258029</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/82532539-9047-40DA-B643-114E631803E4.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/10DA27CE-8CEA-405C-B2AE-7AD057FEEED3.jpg?v=1784359469</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_mango-1.jpg?v=1754257941</g:additional_image_link>
@@ -2459,7 +2435,6 @@
       <g:price>290.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-royal-mango-wedges?variant=43529011495005</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4BFBEA92-F41D-40C8-A735-C2E6A2869E19.jpg?v=1754258029</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/2.webp?v=1790088415</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/82532539-9047-40DA-B643-114E631803E4.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/10DA27CE-8CEA-405C-B2AE-7AD057FEEED3.jpg?v=1784359469</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_mango-1.jpg?v=1754257941</g:additional_image_link>
@@ -2476,8 +2451,7 @@
       <g:condition>new</g:condition>
       <g:price>600.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/happiness-royal-mango-wedges?variant=44602541342813</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/2.webp?v=1790088415</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4BFBEA92-F41D-40C8-A735-C2E6A2869E19.jpg?v=1754258029</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4BFBEA92-F41D-40C8-A735-C2E6A2869E19.jpg?v=1754258029</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/82532539-9047-40DA-B643-114E631803E4.jpg?v=1788193151</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/10DA27CE-8CEA-405C-B2AE-7AD057FEEED3.jpg?v=1784359469</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/freeze_dried_mango-1.jpg?v=1754257941</g:additional_image_link>
