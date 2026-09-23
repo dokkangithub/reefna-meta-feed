@@ -4,7 +4,7 @@
     <title>Reefna Food – Meta Product Feed</title>
     <link>https://reefnafood.com</link>
     <description>Reefna Food product catalog for Meta/Facebook and Instagram</description>
-    <lastBuildDate>Wed, 23 Sep 2026 04:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:33:02 +0000</lastBuildDate>
     <item>
       <g:id>shopify_EG_8187036467293_44780564414557</g:id>
       <g:item_group_id>shopify_EG_8187036467293</g:item_group_id>
@@ -94,6 +94,7 @@
       <g:sale_price>550.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/royal-mix?variant=44602914996317</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/795CBB6C-8633-4FE5-B994-3D6C205B644B.jpg?v=1783932894</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/56C4A66D-584D-41D4-8FC0-F779E0FCA5D9.jpg?v=1788193150</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
     </item>
     <item>
@@ -360,7 +361,8 @@
       <g:price>340.00 EGP</g:price>
       <g:sale_price>280.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/egyptian-delights?variant=44724801208413</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/691A768B-0B40-4C16-9B5D-56077A26742F.jpg?v=1780944719</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/4A7227FF-63DF-44CE-9AE2-645F6E3601A6.jpg?v=1780944718</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/691A768B-0B40-4C16-9B5D-56077A26742F.jpg?v=1780944719</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/EF7F6E13-3A39-494C-8206-53A6E7C66698.jpg?v=1780944718</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
     </item>
@@ -1139,8 +1141,8 @@
       <g:price>660.00 EGP</g:price>
       <g:sale_price>600.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/reefna-mix?variant=43554741518429</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/5F06E652-75C8-4ADF-B57D-7BCF9C89CC8E.jpg?v=1770070301</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/E6DC3EAA-1C1B-4A49-8B6F-0B0DCDDE1A64.jpg?v=1770070301</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/E6DC3EAA-1C1B-4A49-8B6F-0B0DCDDE1A64.jpg?v=1770070301</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/5F06E652-75C8-4ADF-B57D-7BCF9C89CC8E.jpg?v=1770070301</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
     </item>
     <item>
@@ -1252,8 +1254,8 @@
       <g:condition>new</g:condition>
       <g:price>290.00 EGP</g:price>
       <g:link>https://reefnafood.com/products/summer-taste?variant=43529078407261</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9E77D2BE-F4F8-4164-9A08-9CCD2E5D77D9.jpg?v=1780944718</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9D7E4A3A-9757-4438-B790-C768583A5474.jpg?v=1780944718</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9D7E4A3A-9757-4438-B790-C768583A5474.jpg?v=1780944718</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/9E77D2BE-F4F8-4164-9A08-9CCD2E5D77D9.jpg?v=1780944718</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
       <g:product_type>فاكهة مجففة بالتجميد</g:product_type>
     </item>
