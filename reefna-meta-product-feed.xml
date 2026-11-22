@@ -4,21 +4,7 @@
     <title>Reefna Food – Meta Product Feed</title>
     <link>https://reefnafood.com</link>
     <description>Reefna Food product catalog for Meta/Facebook and Instagram</description>
-    <lastBuildDate>Sun, 22 Nov 2026 06:42:50 +0000</lastBuildDate>
-    <item>
-      <g:id>shopify_EG_8128692027485_44417084686429</g:id>
-      <g:item_group_id>shopify_EG_8128692027485</g:item_group_id>
-      <g:title>Homemade Strawberry Jam with Honey – 500g</g:title>
-      <g:description>Homemade Strawberry Jam with Honey</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>360.00 EGP</g:price>
-      <g:link>https://reefnafood.com/products/homemade-strawberry-jam-with-honey?variant=44417084686429</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/7DBEF425-AD6A-49C1-A084-B302B2FB989B.jpg?v=1777814878</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/CC289C74-D3CC-422E-B753-1EBEB50905DC.jpg?v=1777814879</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/3EB74020-CF9E-4958-9A74-CEBC736E7B8F.jpg?v=1777814879</g:additional_image_link>
-      <g:brand>Reefna food</g:brand>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 19:34:57 +0000</lastBuildDate>
     <item>
       <g:id>shopify_EG_8174823374941_44602870693981</g:id>
       <g:item_group_id>shopify_EG_8174823374941</g:item_group_id>
@@ -413,7 +399,7 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>600.00 EGP</g:price>
-      <g:sale_price>500.00 EGP</g:sale_price>
+      <g:sale_price>490.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/royal-mix?variant=44602914996317</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/C8954E51-CB8C-47AF-BBFC-F1496B769727.png?v=1793550109</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/56C4A66D-584D-41D4-8FC0-F779E0FCA5D9.jpg?v=1788193150</g:additional_image_link>
@@ -684,77 +670,6 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/691A768B-0B40-4C16-9B5D-56077A26742F.jpg?v=1780944719</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/EF7F6E13-3A39-494C-8206-53A6E7C66698.jpg?v=1780944718</g:additional_image_link>
       <g:brand>Reefna food</g:brand>
-    </item>
-    <item>
-      <g:id>shopify_EG_8065294172253_44167621148765</g:id>
-      <g:item_group_id>shopify_EG_8065294172253</g:item_group_id>
-      <g:title>Dried Fig (تين) – 250g</g:title>
-      <g:description>Dried Fig (تين)</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>280.00 EGP</g:price>
-      <g:sale_price>250.00 EGP</g:sale_price>
-      <g:link>https://reefnafood.com/products/dried-fig?variant=44167621148765</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/EA4EC651-07EA-4A9D-8466-F3D8A4905C07.jpg?v=1769884901</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/CDB23316-59AF-44C7-81BE-1DC25C67E725.jpg?v=1769884901</g:additional_image_link>
-      <g:brand>Reefna food</g:brand>
-    </item>
-    <item>
-      <g:id>shopify_EG_8065285685341_44167615545437</g:id>
-      <g:item_group_id>shopify_EG_8065285685341</g:item_group_id>
-      <g:title>Raisin (زبيب) – 250g</g:title>
-      <g:description>Raisin (زبيب)</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>150.00 EGP</g:price>
-      <g:sale_price>110.00 EGP</g:sale_price>
-      <g:link>https://reefnafood.com/products/raisin?variant=44167615545437</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/8D2A2E39-B7F9-438F-95E3-7E9B2F6F268E.jpg?v=1769884901</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/CFDF04AD-4091-4733-AA02-23C4DA0138FF.jpg?v=1769884901</g:additional_image_link>
-      <g:brand>Reefna food</g:brand>
-    </item>
-    <item>
-      <g:id>shopify_EG_8065285587037_44167606894685</g:id>
-      <g:item_group_id>shopify_EG_8065285587037</g:item_group_id>
-      <g:title>Prunes (قراصيا) – 250g</g:title>
-      <g:description>Prunes (قراصيا)</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>200.00 EGP</g:price>
-      <g:sale_price>160.00 EGP</g:sale_price>
-      <g:link>https://reefnafood.com/products/prunes?variant=44167606894685</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/EF77009E-D6BA-4A06-AE81-85F0EE6B32C1.jpg?v=1769884901</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/F2B39D0F-8DC1-4411-BDC0-317766916AE9.jpg?v=1769884901</g:additional_image_link>
-      <g:brand>Reefna food</g:brand>
-    </item>
-    <item>
-      <g:id>shopify_EG_8065285161053_44167599816797</g:id>
-      <g:item_group_id>shopify_EG_8065285161053</g:item_group_id>
-      <g:title>Dried Apricot (مشمشية) – 250g</g:title>
-      <g:description>Dried Apricot (مشمشية)</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>270.00 EGP</g:price>
-      <g:sale_price>240.00 EGP</g:sale_price>
-      <g:link>https://reefnafood.com/products/dried-apricot?variant=44167599816797</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/A6F1BB3D-76D1-4EA8-8983-6570C4C08B2E.jpg?v=1769885436</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/7F4CE872-9908-4CF7-97C7-229F08D77042.jpg?v=1769884901</g:additional_image_link>
-      <g:brand>Reefna food</g:brand>
-    </item>
-    <item>
-      <g:id>shopify_EG_8065282932829_44167590936669</g:id>
-      <g:item_group_id>shopify_EG_8065282932829</g:item_group_id>
-      <g:title>Mix Dried Fruit (خشاف) – 250g</g:title>
-      <g:description>Mix Dried Fruit (خشاف) Dried Apricot Dried Fig Raisin Prune Mefatel</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>200.00 EGP</g:price>
-      <g:sale_price>180.00 EGP</g:sale_price>
-      <g:link>https://reefnafood.com/products/mix-dried-fruit-خشاف?variant=44167590936669</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/ACDABA92-E3B9-4EAF-9696-90F33D83A869.jpg?v=1769884901</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/AB5609D3-04BE-48E7-A56C-91701189624E.jpg?v=1769884902</g:additional_image_link>
-      <g:brand>Reefna food</g:brand>
-      <g:product_type>Dates</g:product_type>
     </item>
     <item>
       <g:id>shopify_EG_8057841877085_44141169541213</g:id>
@@ -2298,6 +2213,7 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>295.00 EGP</g:price>
+      <g:sale_price>280.00 EGP</g:sale_price>
       <g:link>https://reefnafood.com/products/full-happiness-strawberry-whole?variant=43529024405597</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/2F841A78-80FE-4296-A49D-B10F71463922.png?v=1793550694</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0669/1412/3869/files/02A97533-A000-4447-AC23-2E3CA989772F.jpg?v=1788193151</g:additional_image_link>
